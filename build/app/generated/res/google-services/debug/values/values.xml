@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">66317481015-br5lmumt0j0ssk737hfigvh0vmqdfr6s.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://tripsflutter-542b5.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">66317481015</string>
+    <string name="google_api_key" translatable="false">AIzaSyDWHOwXfp-aY8cJ_Cfs4xkDy9ynRl_Pd1Y</string>
+    <string name="google_app_id" translatable="false">1:66317481015:android:12e4432b4363b2bb1f7bb2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDWHOwXfp-aY8cJ_Cfs4xkDy9ynRl_Pd1Y</string>
+    <string name="google_storage_bucket" translatable="false">tripsflutter-542b5.appspot.com</string>
+    <string name="project_id" translatable="false">tripsflutter-542b5</string>
+</resources>
